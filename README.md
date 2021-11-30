@@ -1,4 +1,4 @@
-# program-article-resource
+# awesome-article
 目的: 紀錄一下各語言看到我覺得不錯的文章
 ##
  | 主題 | 程式語言 | 標題   |連結
