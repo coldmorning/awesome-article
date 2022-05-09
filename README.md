@@ -3,7 +3,7 @@
 ##
  | 主題 | 程式語言 | 標題   |連結
 | ------ | ------ | ------ | ------ |
-| 代碼風格 | JavaScript  |Functional programming design patterns | [Link](https://vimeo.com/113588389/)
+| 設計模式 | JavaScript  |Functional programming design patterns | [Link](https://vimeo.com/113588389/)
 | 代碼風格 | Golang  |Style guideline for Go packages | [Link](https://rakyll.org/style-packages/) 
 | 代碼風格 | Golang  |Uber Go Style Guide | [Link](https://github.com/uber-go/guide/blob/master/style.md) 
 | 單元測試 | Golang  |Unit Test in Golang | [Link](https://medium.com/tunaiku-tech/unit-test-in-golang-57a2a896d90d) 
