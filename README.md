@@ -1,7 +1,7 @@
 # awesome-article
 目的: 紀錄一下各語言看到我覺得不錯的文章<br>
 
-Purpose: To record the articles that I think are good to me.
+Purpose: Record the Good articles
 ##
 | Type | Chinese Description| Program lanuage | Topic   | Link
 | ------ | ------ | ------ | ------ | ------ |
@@ -13,5 +13,4 @@ Purpose: To record the articles that I think are good to me.
 |Web Framwork | 框架教學 | Python  |The Flask Mega-Tutorial | [Link](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) 
 |Network Principle | 網路原理||從傳紙條輕鬆學習基本網路概念 |  [Link](https://hulitw.medium.com/learning-tcp-ip-http-via-sending-letter-5d3299203660) 
 |Coding Advice | 開發建議|    |How to write code you will love in the future | [Link](https://medium.com/free-code-camp/how-to-write-code-you-will-love-in-the-future-ee5decae5ce4) 
-|Coding Advice | 開發建議| |當我們在學程式時，要學的到底是什麼|  [Link](https://hulitw.medium.com/learn-coding-9c572c2fb2) 
-
+|System Design | 系統設計| | System-design-primer | [Link](https://github.com/donnemartin/system-design-primer/tree/master)
